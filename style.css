@@ -1,0 +1,51 @@
+body {
+  background-color: #fefaef;
+}
+.whole {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content {
+  display: block;
+  margin-top: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+button {
+  border: none;
+  background: none;
+  margin: 30px;
+  position: relative;
+  top: 75px;
+}
+#timeDuration {
+  font-family: 'Russo One', sans-serif;
+  border: none;
+  font-size: 95px;
+  text-align: center;
+  color: rgb(102, 105, 255);
+  width: 260px;
+  background: none;
+  outline: none;
+  position: relative;
+  top: 50px;
+}
+.fas {
+  font-size: 55px;
+  color: #7ce98a;
+}
+.whole .controls {
+  position: absolute;
+}
+h1 {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Russo One', sans-serif;
+  font-size: 105px;
+  text-align: center;
+  color: #df6124;
+  margin-top: 50px;
+}
